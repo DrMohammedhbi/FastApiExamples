@@ -20,7 +20,9 @@ This repository contains various Python scripts demonstrating different programm
 ## Usage
 
 Each file is a standalone Python script. You can run them individually using Python:
-fastapi dev .\filename.py
-or
-uvicorn filename:app --reload
+- fastapi dev .\filename.py
+- or
+- uvicorn filename:app --reload
+ 
+
  
